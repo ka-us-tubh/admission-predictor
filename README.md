@@ -13,4 +13,4 @@ Below is the features important for our addmission shown(extracted from Randomfo
  <br>
 <img src="adaboost.png" alt="output img">
  Link to pandas-profiling:
-<a href="url">link text</a>
+<a href="[ur](https://ka-us-tubh.github.io/admission-predictor/)https://ka-us-tubh.github.io/admission-predictor/">link text</a>
