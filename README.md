@@ -3,7 +3,7 @@ In this project, I have use Artifical Neural Network,AdaboostRegressors,XGboostR
 
 Below is the features important for our addmission shown(extracted from Randomforest model):
  <br>
-<img src="fe.png" alt="large img">
+<img src="fe.png">
 <br>
  Image of the ANN architecture used:
  <br>
@@ -13,5 +13,4 @@ Below is the features important for our addmission shown(extracted from Randomfo
  <br>
 <img src="adaboost.png" alt="output img">
  Link to pandas-profiling:
- <br>
 <a href="url">link text</a>
